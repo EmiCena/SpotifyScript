@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#193c3a" />
+    <meta name="description" content="StoryVocab — aprende inglés avanzado a través de historias interactivas." />
+    <title>StoryVocab · Inglés que se queda contigo</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles/main.css" />
+  </head>
+  <body>
+    <div id="app" class="app-shell">
+      <aside class="sidebar" aria-label="Navegación principal">
+        <div class="brand-lockup">
+          <a class="brand" href="#home" aria-label="StoryVocab, inicio">
+            <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
+            <span>story<span>vocab</span></span>
+          </a>
+          <span class="brand-kicker">ENGLISH / C1</span>
+        </div>
+
+        <nav class="primary-nav">
+          <p class="nav-label">Tu espacio</p>
+          <a class="nav-link" href="#home" data-nav="home"><span class="nav-icon" data-icon="home"></span><span>Inicio</span></a>
+          <a class="nav-link" href="#library" data-nav="library"><span class="nav-icon" data-icon="book-open"></span><span>Historias</span><span class="nav-count" id="story-count">14</span></a>
+          <a class="nav-link" href="#review" data-nav="review"><span class="nav-icon" data-icon="refresh"></span><span>Repaso de hoy</span><span class="nav-badge" id="due-count">0</span></a>
+          <a class="nav-link" href="#vocabulary" data-nav="vocabulary"><span class="nav-icon" data-icon="bookmark"></span><span>Mi vocabulario</span></a>
+          <a class="nav-link" href="#stats" data-nav="stats"><span class="nav-icon" data-icon="chart"></span><span>Mi progreso</span></a>
+        </nav>
+
+        <div class="sidebar-spacer"></div>
+        <div class="streak-card">
+          <div class="streak-topline"><span class="flame-dot">✦</span><span>RACHA ACTUAL</span><span class="streak-value" id="sidebar-streak">0 días</span></div>
+          <div class="streak-track"><span id="streak-fill"></span></div>
+          <p><strong id="sidebar-week-count">0</strong> de 5 sesiones esta semana</p>
+        </div>
+        <div class="sidebar-footer">
+          <span class="avatar avatar-small">LV</span>
+          <div><strong>Tu recorrido</strong><span>Guardado en este dispositivo</span></div>
+          <button class="icon-button tiny" data-action="reset-progress" aria-label="Reiniciar progreso" title="Reiniciar progreso"><span data-icon="settings"></span></button>
+        </div>
+      </aside>
+
+      <main class="main-shell">
+        <header class="topbar">
+          <div class="mobile-brand">
+            <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
+            <span>story<span>vocab</span></span>
+          </div>
+          <div class="topbar-context" id="topbar-context">TU ESPACIO DE APRENDIZAJE</div>
+          <div class="topbar-actions">
+            <button class="top-search" data-route="library"><span data-icon="search"></span><span>Buscar una historia</span><kbd>⌘ K</kbd></button>
+            <button class="icon-button notification-button" aria-label="Notificaciones" title="Notificaciones"><span data-icon="bell"></span><i></i></button>
+            <span class="avatar">LV</span>
+          </div>
+        </header>
+
+        <div id="app-view" class="page-shell" aria-live="polite"></div>
+
+        <nav class="mobile-nav" aria-label="Navegación móvil">
+          <a href="#home" data-nav="home"><span data-icon="home"></span><small>Inicio</small></a>
+          <a href="#library" data-nav="library"><span data-icon="book-open"></span><small>Historias</small></a>
+          <a href="#review" data-nav="review"><span data-icon="refresh"></span><small>Repaso</small><b id="mobile-due-count">0</b></a>
+          <a href="#vocabulary" data-nav="vocabulary"><span data-icon="bookmark"></span><small>Palabras</small></a>
+          <a href="#stats" data-nav="stats"><span data-icon="chart"></span><small>Progreso</small></a>
+        </nav>
+      </main>
+    </div>
+
+    <div id="popover-layer"></div>
+    <div id="toast-region" class="toast-region" aria-live="polite"></div>
+    <div id="modal-layer"></div>
+    <script type="module" src="js/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "categories": [
+    {"id":"business","name":"Business & entrepreneurship","shortName":"Business","description":"Negotiation, leadership and the ideas that move a company forward.","color":"#e77b59","icon":"↗"},
+    {"id":"technology","name":"Technology & innovation","shortName":"Technology","description":"Algorithms, systems and the human choices behind new tools.","color":"#6fada5","icon":"⌘"},
+    {"id":"academia","name":"Academia & research","shortName":"Academia","description":"Evidence, curiosity and the craft of asking better questions.","color":"#d3a252","icon":"◌"},
+    {"id":"travel","name":"Travel & culture","shortName":"Travel","description":"Places, traditions and the encounters that broaden a map.","color":"#8fa8bd","icon":"✦"},
+    {"id":"personal","name":"Personal development","shortName":"Mind & self","description":"Resilience, attention and the quiet work of becoming.","color":"#b58eaa","icon":"◎"},
+    {"id":"arts","name":"Arts & literature","shortName":"Arts","description":"Aesthetic choices, vivid voices and the stories we inherit.","color":"#c47c6d","icon":"✎"},
+    {"id":"health","name":"Health & science","shortName":"Health","description":"The body, its hidden systems and the science that explains them.","color":"#83a77e","icon":"+"}
+  ]
+}

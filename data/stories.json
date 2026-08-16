@@ -1,0 +1,270 @@
+{
+  "stories": [
+    {
+      "id":1,
+      "title":"The Negotiator's Paradox",
+      "description":"An entrepreneur discovers that the most profitable offer may ask for more than money.",
+      "category":"business",
+      "type":"fiction",
+      "difficulty":"C1",
+      "wordCount":287,
+      "estimatedTimeMinutes":4,
+      "author":"StoryVocab editorial",
+      "content":"Emma was remarkably adept at reading people's subtle cues—a skill honed through years of high-stakes negotiations. Today, however, her trademark composure was being tested. The venture capitalists across the table had made an ostensibly generous offer, but she recognized the hidden strings.\n\nThey wanted her to exacerbate the competitive tensions within her team, believing internal conflict would drive innovation. Her mentor's words echoed in her mind: reconcile your idealism with pragmatism. Yet their suggestion felt facetious at best, malicious at worst.\n\nThe numbers were undeniably appealing. The valuation would secure her family's future for generations. But Emma understood that such expedient solutions often precipitated unforeseen consequences. She had witnessed too many founders acquiesce to investor demands, only to find their vision irrevocably altered.\n\nTaking a measured breath, Emma chose a different path. She would seek investors whose values were consonant with hers, even if it meant eschewing this lucrative opportunity. Sometimes, the most audacious decision was to say no.",
+      "keyVocabularyIds":[1,2,3,4,5,6,7,8,9],
+      "exercises":[
+        {"type":"cloze","id":"ex_1_1","sentence":"Emma was remarkably ___ at reading people's subtle cues.","blankWord":"adept","options":["adept","adapted","adopted"],"explanation":"Adept significa hábil o experta en algo."},
+        {"type":"cloze","id":"ex_1_2","sentence":"The investors made an ___ generous offer.","blankWord":"ostensibly","options":["ostensibly","obviously","reluctantly"],"explanation":"Ostensibly indica que algo parece cierto, aunque puede ocultar otra realidad."},
+        {"type":"comprehension","id":"ex_1_3","question":"Why did Emma reject the investors' proposal?","options":["The valuation was too low.","Their values did not align with hers.","She wanted to retire from business."],"correctAnswer":1,"explanation":"Emma chose principles that were consonant with her own values over an expedient deal."},
+        {"type":"vocabulary","id":"ex_1_4","word":"reconcile","definition":"To make opposing things compatible","options":["To make opposing things compatible","To hide a financial loss","To repeat an argument"],"correctAnswer":0,"explanation":"Reconcile means conciliar o hacer compatibles dos ideas o situaciones."}
+      ]
+    },
+    {
+      "id":2,
+      "title":"The Quiet Pivot",
+      "description":"A small company learns that listening closely can be a better growth strategy than shouting loudly.",
+      "category":"business",
+      "type":"non-fiction",
+      "difficulty":"C1",
+      "wordCount":265,
+      "estimatedTimeMinutes":4,
+      "author":"StoryVocab editorial",
+      "content":"When a product first launches, enthusiasm can make every signal look like proof. The founders of a small logistics platform had a promising prototype, a loyal first client and a pitch deck full of confident arrows. What they lacked was a viable explanation for why their second client kept leaving.\n\nInstead of blaming the market, they invited every stakeholder into a series of candid interviews. Drivers described a clumsy interface; dispatchers wanted clearer alerts; owners were anxious about hidden costs. The pattern was easy to miss in a dashboard, but unmistakable in conversation.\n\nThe team decided to leverage what it already knew rather than imitate a larger competitor. It would deprioritize decorative features and rebuild the daily workflow around reliability. The decision felt modest, even anticlimactic, but it created a scalable foundation. Within six months, retention improved and referrals began to outpace advertising.\n\nA pivot is often described as a dramatic turn. In practice, it can be a disciplined act of attention: noticing that the evidence is asking a better question, then having the humility to follow it.",
+      "keyVocabularyIds":[10,11,12],
+      "exercises":[
+        {"type":"cloze","id":"ex_2_1","sentence":"The founders needed a ___ explanation for the client's departure.","blankWord":"viable","options":["viable","visible","volatile"],"explanation":"Viable significa capaz de funcionar o tener éxito."},
+        {"type":"cloze","id":"ex_2_2","sentence":"They invited every ___ into the interviews.","blankWord":"stakeholder","options":["stakeholder","spectator","shareholder"],"explanation":"A stakeholder es cualquier persona o grupo afectado o interesado, no solo un accionista."},
+        {"type":"comprehension","id":"ex_2_3","question":"What did the team choose to prioritize?","options":["More decorative features","A reliable daily workflow","A bigger advertising budget"],"correctAnswer":1,"explanation":"They deprioritized decoration and built around reliability."},
+        {"type":"vocabulary","id":"ex_2_4","word":"leverage","definition":"To use an advantage or resource to achieve a result","options":["To use an advantage or resource to achieve a result","To borrow money from a competitor","To delay a difficult decision"],"correctAnswer":0,"explanation":"Leverage significa aprovechar un recurso o ventaja."}
+      ]
+    },
+    {
+      "id":3,
+      "title":"An Algorithm for Listening",
+      "description":"A young engineer questions what an empathetic machine should be allowed to infer.",
+      "category":"technology",
+      "type":"fiction",
+      "difficulty":"C1",
+      "wordCount":294,
+      "estimatedTimeMinutes":4,
+      "author":"StoryVocab editorial",
+      "content":"Mara's team had built a model that could detect distress in a person's voice. On paper, the tool was impressive: it noticed pauses, changes in pitch and the nuanced vocabulary people used when asking for help. Its accuracy made the board eager to deploy it in call centers.\n\nMara was less certain. The signals were pervasive but not neutral. A speaker's accent could be mistaken for agitation; a cultural habit of silence could be interpreted as evasion. The model's creators had trained it on millions of conversations, yet the data carried the assumptions of the people who had collected it.\n\nAt the review meeting, a director called the objections overly cautious. Mara answered with a salient question: who would be able to challenge the machine when its guess changed a person's access to care? She proposed a slower release, transparent explanations and a human review for every high-stakes decision.\n\nThe board postponed the launch. It was not a rejection of innovation, Mara argued, but a recognition that a system can be scalable without being wise. An algorithm may listen to a voice; responsibility still belongs to the people who decide what that voice means.",
+      "keyVocabularyIds":[13,14,15,16,20],
+      "exercises":[
+        {"type":"cloze","id":"ex_3_1","sentence":"The model noticed the ___ vocabulary people used when asking for help.","blankWord":"nuanced","options":["nuanced","numerical","neutral"],"explanation":"Nuanced describe diferencias sutiles y matices."},
+        {"type":"cloze","id":"ex_3_2","sentence":"The signals were ___ but not neutral.","blankWord":"pervasive","options":["pervasive","persuasive","primitive"],"explanation":"Pervasive significa extendido y presente por todas partes."},
+        {"type":"comprehension","id":"ex_3_3","question":"What safeguard did Mara propose?","options":["Removing all human reviewers","A slower release with transparent explanations","Training the model on fewer conversations"],"correctAnswer":1,"explanation":"She proposed a slower, accountable rollout with human review."},
+        {"type":"vocabulary","id":"ex_3_4","word":"salient","definition":"Most noticeable or important","options":["Most noticeable or important","Impossible to measure","Unrelated to the topic"],"correctAnswer":0,"explanation":"Salient señala el punto más destacado o importante."}
+      ]
+    },
+    {
+      "id":4,
+      "title":"The Cost of Legacy",
+      "description":"A public-service team discovers that improving old software is also an act of care.",
+      "category":"technology",
+      "type":"non-fiction",
+      "difficulty":"C1",
+      "wordCount":276,
+      "estimatedTimeMinutes":4,
+      "author":"StoryVocab editorial",
+      "content":"For years, a city's emergency scheduling system had run on a patchwork of legacy code. It was slow, inelegant and understood by only three people, but it handled thousands of requests every night. Replacing it in one dramatic gesture would have been satisfying—and reckless.\n\nThe engineers began an iterative audit instead. They mapped dependencies, documented the undocumented and asked dispatchers which failures were most costly. A conspicuous delay in one screen turned out to be less urgent than a tiny error that duplicated appointments.\n\nThe team chose to deprioritize a complete rewrite. Instead, it built small interfaces around the stable core and tested each change with the people who used it. This approach was less glamorous, but more scalable: improvements could continue without interrupting the service.\n\nThe project offered a salutary lesson about technical debt. Old systems are not merely obstacles waiting to be removed. They are histories of previous decisions, embedded in the routines of real people. To modernize responsibly is to change the system without pretending that its past never mattered.",
+      "keyVocabularyIds":[17,18,19,20,50,51,52],
+      "exercises":[
+        {"type":"cloze","id":"ex_4_1","sentence":"The scheduling system ran on a patchwork of ___ code.","blankWord":"legacy","options":["legacy","legible","legal"],"explanation":"Legacy code es código antiguo heredado que aún sigue en uso."},
+        {"type":"cloze","id":"ex_4_2","sentence":"The engineers began an ___ audit.","blankWord":"iterative","options":["iterative","identical","immediate"],"explanation":"Iterative significa desarrollado en ciclos repetidos de prueba y mejora."},
+        {"type":"comprehension","id":"ex_4_3","question":"Why did the team avoid a complete rewrite?","options":["The old system was fashionable.","A rewrite could interrupt a critical service.","They had no documentation to read."],"correctAnswer":1,"explanation":"They chose gradual improvements to protect a service used by real people."},
+        {"type":"vocabulary","id":"ex_4_4","word":"salutary","definition":"Useful or beneficial, especially because it teaches a lesson","options":["Useful or beneficial, especially because it teaches a lesson","Likely to cause a system failure","Related to health insurance"],"correctAnswer":0,"explanation":"Salutary describe una experiencia que deja una lección beneficiosa."}
+      ]
+    },
+    {
+      "id":5,
+      "title":"The Replication Gap",
+      "description":"A research team confronts the uncomfortable distance between an exciting result and a reliable one.",
+      "category":"academia",
+      "type":"non-fiction",
+      "difficulty":"C1",
+      "wordCount":271,
+      "estimatedTimeMinutes":4,
+      "author":"StoryVocab editorial",
+      "content":"The original study had all the ingredients of a scientific success: a clear hypothesis, elegant graphs and a conclusion that promised to reshape the field. When a second laboratory tried to replicate the experiment, however, the effect disappeared. The finding was not necessarily false, but confidence could no longer be borrowed from its first appearance.\n\nThe researchers scrutinized the methodology. They discovered that a seemingly peripheral choice—the hour at which participants were tested—could influence the result. Their tentative explanation was that fatigue changed how people responded to the task. It was a plausible account, but still conjecture until new data could corroborate it.\n\nRather than hide the discrepancy, the laboratories collaborated on a larger protocol. The process was slower and less dramatic than the initial publication, yet it was precisely what empirical work requires: a willingness to make uncertainty visible.\n\nReplication does not diminish discovery. It distinguishes a pattern from a coincidence and turns a promising observation into knowledge other people can trust.",
+      "keyVocabularyIds":[21,22,23,24,25,26,27,28],
+      "exercises":[
+        {"type":"cloze","id":"ex_5_1","sentence":"The second laboratory tried to ___ the experiment.","blankWord":"replicate","options":["replicate","replace","reprimand"],"explanation":"Replicate significa repetir un estudio para comprobar si produce resultados comparables."},
+        {"type":"cloze","id":"ex_5_2","sentence":"The explanation remained ___ until new data arrived.","blankWord":"conjecture","options":["conjecture","certainty","consensus"],"explanation":"Conjecture es una conclusión basada en información incompleta."},
+        {"type":"comprehension","id":"ex_5_3","question":"What did the researchers do with the discrepancy?","options":["They concealed it.","They collaborated on a larger protocol.","They discarded all empirical work."],"correctAnswer":1,"explanation":"They made the uncertainty visible and designed a stronger collaborative test."},
+        {"type":"vocabulary","id":"ex_5_4","word":"corroborate","definition":"To confirm a statement with additional evidence","options":["To confirm a statement with additional evidence","To make an experiment shorter","To publish a result without review"],"correctAnswer":0,"explanation":"Corroborate significa confirmar o respaldar con evidencia adicional."}
+      ]
+    },
+    {
+      "id":6,
+      "title":"A Field Guide to Uncertainty",
+      "description":"A scientist learns that a careful question can be more valuable than a confident answer.",
+      "category":"academia",
+      "type":"fiction",
+      "difficulty":"C1",
+      "wordCount":252,
+      "estimatedTimeMinutes":4,
+      "author":"StoryVocab editorial",
+      "content":"Dr. Sato kept a notebook for observations that did not fit her preferred explanation. At first, the habit felt inefficient. Her colleagues wanted a clean hypothesis and a decisive result; she kept writing down anomalies, weather changes and the moments when a measurement seemed to hesitate.\n\nDuring a survey of coastal plants, one unexpected pattern became impossible to ignore. A species thought to be declining was thriving in a narrow strip of salt marsh. Sato resisted the urge to call it an adaptation before she understood the conditions. The evidence was suggestive, not conclusive.\n\nShe returned the following season with a revised methodology and a larger team. The result did not prove her first idea. It did, however, corroborate a more nuanced account: the plant survived not because it resisted stress, but because it entered a temporary dormant state.\n\nGood research rarely moves in a straight line. It proceeds by noticing what interrupts a neat story, then allowing the interruption to improve the question. Uncertainty is not a gap to cover; it is information about where to look next.",
+      "keyVocabularyIds":[21,22,25,26,27,28],
+      "exercises":[
+        {"type":"cloze","id":"ex_6_1","sentence":"Sato returned with a revised ___.","blankWord":"methodology","options":["methodology","metaphor","majority"],"explanation":"Methodology es el sistema de métodos usado para investigar."},
+        {"type":"cloze","id":"ex_6_2","sentence":"The evidence was suggestive, not ___.","blankWord":"conclusive","options":["conclusive","convenient","conventional"],"explanation":"Conclusive significa definitivo; aquí se dice que la evidencia aún no lo era."},
+        {"type":"comprehension","id":"ex_6_3","question":"What did the plant do under stress?","options":["It migrated immediately.","It entered a temporary dormant state.","It stopped producing seeds forever."],"correctAnswer":1,"explanation":"The revised account showed that dormancy, rather than resistance, explained its survival."},
+        {"type":"vocabulary","id":"ex_6_4","word":"tentative","definition":"Not certain or definite because more evidence is needed","options":["Not certain or definite because more evidence is needed","Extremely old and traditional","Designed to measure temperature"],"correctAnswer":0,"explanation":"Tentative significa provisional o no definitivo."}
+      ]
+    },
+    {
+      "id":7,
+      "title":"Beyond the Last Platform",
+      "description":"On a mountain journey, a traveler discovers that maps cannot record every kind of belonging.",
+      "category":"travel",
+      "type":"fiction",
+      "difficulty":"C1",
+      "wordCount":263,
+      "estimatedTimeMinutes":4,
+      "author":"StoryVocab editorial",
+      "content":"The train ended at a town that appeared on no modern itinerary. From there, Lila and her guide traversed a valley where the road dissolved into a footpath. The landscape seemed beautiful in the way a closed door can be beautiful: inviting, but indifferent to your plans.\n\nAt a riverside village, an indigenous craftswoman named Amaya showed them a pattern used in ceremonial cloth. Its shapes represented a migration remembered by families who now lived across a wide diaspora. Lila asked whether the pattern had a single translation. Amaya smiled. Meaning, she said, depended on who carried it and where.\n\nThe customary welcome was not a performance for visitors. It involved work: washing cups, collecting herbs and waiting until every guest had spoken. Lila began to understand that reciprocity was not a transaction. It was a way of making a stranger briefly responsible for the place that received them.\n\nWhen she left, the valley remained unmapped in her guidebook. It was not absent. It had simply refused to become smaller for the convenience of being described.",
+      "keyVocabularyIds":[29,30,31,32,33,34],
+      "exercises":[
+        {"type":"cloze","id":"ex_7_1","sentence":"Lila and her guide ___ a valley where the road disappeared.","blankWord":"traversed","options":["traversed","translated","transformed"],"explanation":"Traverse significa atravesar o recorrer una zona."},
+        {"type":"cloze","id":"ex_7_2","sentence":"The welcome depended on ___.","blankWord":"reciprocity","options":["reciprocity","repetition","reputation"],"explanation":"Reciprocity es un intercambio mutuo, una relación de dar y recibir."},
+        {"type":"comprehension","id":"ex_7_3","question":"What did the cloth pattern represent?","options":["A railway timetable","A migration remembered by dispersed families","A map of a future city"],"correctAnswer":1,"explanation":"Amaya explained that the pattern carried a migration remembered across a diaspora."},
+        {"type":"vocabulary","id":"ex_7_4","word":"indigenous","definition":"Naturally belonging to a particular place or region","options":["Naturally belonging to a particular place or region","Recently imported from another country","Designed for tourists"],"correctAnswer":0,"explanation":"Indigenous significa originario de un lugar o región."}
+      ]
+    },
+    {
+      "id":8,
+      "title":"The Grammar of a Market",
+      "description":"A night market reveals how a city keeps its history alive through ordinary exchanges.",
+      "category":"travel",
+      "type":"non-fiction",
+      "difficulty":"C1",
+      "wordCount":247,
+      "estimatedTimeMinutes":4,
+      "author":"StoryVocab editorial",
+      "content":"Every Friday evening, the old harbor becomes a market of improbable continuity. Grandmothers sell recipes that survived a border crossing; teenagers translate jokes between languages; fishermen repair nets beside stalls selling electric scooters. The scene is liminal, neither museum nor shopping district.\n\nThe market belongs to a city shaped by movement. Its diaspora returns for holidays, bringing new ingredients and old arguments about what counts as authentic. Visitors sometimes search for a single tradition, but the market offers a different lesson: culture is not a sealed container. It is a customary practice of borrowing, refusing and adapting.\n\nThe most revealing exchanges are not the loudest. A baker teaches a child to recognize a spice by smell. A vendor explains why a word has no exact translation. These small acts of reciprocity make the place legible without making it uniform.\n\nTo walk through the harbor is to traverse a living archive. Its history is not preserved by freezing it; it persists because people continue to use it, argue with it and pass it on in altered form.",
+      "keyVocabularyIds":[30,31,32,33,34],
+      "exercises":[
+        {"type":"cloze","id":"ex_8_1","sentence":"The scene was ___, neither museum nor shopping district.","blankWord":"liminal","options":["liminal","literal","linear"],"explanation":"Liminal describe un espacio de transición entre dos estados."},
+        {"type":"cloze","id":"ex_8_2","sentence":"Culture is not a sealed container; it is a ___ practice.","blankWord":"customary","options":["customary","commercial","cautious"],"explanation":"Customary significa habitual o tradicional en un lugar o situación."},
+        {"type":"comprehension","id":"ex_8_3","question":"Why does the market keep the city's history alive?","options":["It freezes every tradition unchanged.","People continue to use and adapt its traditions.","It only welcomes returning residents."],"correctAnswer":1,"explanation":"The market functions as a living archive because traditions remain in use and change."},
+        {"type":"vocabulary","id":"ex_8_4","word":"diaspora","definition":"A population dispersed from its original homeland","options":["A population dispersed from its original homeland","A temporary street festival","A formal language lesson"],"correctAnswer":0,"explanation":"Diaspora describe una población que vive dispersa fuera de su tierra de origen."}
+      ]
+    },
+    {
+      "id":9,
+      "title":"The Architecture of Resilience",
+      "description":"A community garden shows why recovery is less about returning to the past than redesigning the future.",
+      "category":"personal",
+      "type":"non-fiction",
+      "difficulty":"C1",
+      "wordCount":258,
+      "estimatedTimeMinutes":4,
+      "author":"StoryVocab editorial",
+      "content":"After a severe storm destroyed the neighborhood garden, nobody agreed on what should happen next. Some wanted to restore it exactly as it had been. Others argued that rebuilding on the same plan would simply reproduce the old vulnerabilities.\n\nThe eventual design began with listening. Residents mapped the places where water collected, the paths that older people could not navigate and the hours when children needed shade. Their resilience did not look like cheerful optimism. It looked like a deliberate willingness to study what had failed without turning failure into shame.\n\nA retired architect became a catalyst for the project, but she refused to become its author. She encouraged the group to deliberate, test small beds and revise the plan. The work was slow enough to mitigate risk and generous enough to include disagreement.\n\nThe new garden was not a monument to the storm. It was an argument against inevitability. Recovery, the residents discovered, does not always mean returning to the previous shape. Sometimes it means designing conditions in which a different future can take root.",
+      "keyVocabularyIds":[35,36,38,40],
+      "exercises":[
+        {"type":"cloze","id":"ex_9_1","sentence":"A retired architect became a ___ for the project.","blankWord":"catalyst","options":["catalyst","catalogue","candidate"],"explanation":"A catalyst es una persona o evento que provoca un cambio."},
+        {"type":"cloze","id":"ex_9_2","sentence":"The design work was slow enough to ___ risk.","blankWord":"mitigate","options":["mitigate","multiply","measure"],"explanation":"Mitigate significa hacer algo menos grave o dañino."},
+        {"type":"comprehension","id":"ex_9_3","question":"What did resilience look like for the residents?","options":["Ignoring what had failed","Studying failure without turning it into shame","Restoring every detail exactly"],"correctAnswer":1,"explanation":"They examined the previous vulnerabilities and designed a more inclusive future."},
+        {"type":"vocabulary","id":"ex_9_4","word":"deliberate","definition":"Done consciously and carefully rather than impulsively","options":["Done consciously and carefully rather than impulsively","Done by accident","Made only for decoration"],"correctAnswer":0,"explanation":"Deliberate significa consciente, intencionado y cuidadoso."}
+      ]
+    },
+    {
+      "id":10,
+      "title":"The Pause Between Thoughts",
+      "description":"A meditation teacher reframes attention as a practical skill rather than a personality trait.",
+      "category":"personal",
+      "type":"fiction",
+      "difficulty":"C1",
+      "wordCount":249,
+      "estimatedTimeMinutes":4,
+      "author":"StoryVocab editorial",
+      "content":"Nico arrived at the retreat expecting silence to feel like an answer. Instead, it made every unfinished thought more conspicuous. He noticed the impulse to check his phone, the argument he replayed at breakfast and the quiet fear that he was doing mindfulness incorrectly.\n\nThe teacher did not ask him to suppress any of it. She invited introspection without judgment: notice the thought, name its urgency and let it pass without giving it the next sentence. The practice felt less like peace than like learning a new grammar.\n\nOn the third day, Nico received difficult news from work. His first reaction was acute and familiar; his second was a deliberate pause. That small interval did not solve the problem, but it gave him a choice about what to do next. He could answer from alarm or respond from attention.\n\nMindfulness is often sold as escape from difficulty. Its more salutary promise is modest: difficulty will still arrive, but it need not dictate the entire shape of your response. Sometimes agency begins in the space of one breath.",
+      "keyVocabularyIds":[37,38,39,40,51],
+      "exercises":[
+        {"type":"cloze","id":"ex_10_1","sentence":"The teacher invited ___ without judgment.","blankWord":"introspection","options":["introspection","interaction","interruption"],"explanation":"Introspection es examinar los propios pensamientos y sentimientos."},
+        {"type":"cloze","id":"ex_10_2","sentence":"His first reaction was ___ and familiar.","blankWord":"acute","options":["acute","accurate","adequate"],"explanation":"Acute puede significar muy intenso o de aparición repentina."},
+        {"type":"comprehension","id":"ex_10_3","question":"What did the pause give Nico?","options":["A way to avoid the news","A choice about how to respond","A guarantee that work would improve"],"correctAnswer":1,"explanation":"The pause did not solve the problem, but it gave him agency over his response."},
+        {"type":"vocabulary","id":"ex_10_4","word":"equanimity","definition":"Calmness and emotional balance in a difficult situation","options":["Calmness and emotional balance in a difficult situation","A sudden burst of anger","A plan for financial growth"],"correctAnswer":0,"explanation":"Equanimity es serenidad y equilibrio emocional bajo presión."}
+      ]
+    },
+    {
+      "id":11,
+      "title":"A Different Kind of Light",
+      "description":"A cinematographer learns to trust the emotional intelligence of a scene's quietest details.",
+      "category":"arts",
+      "type":"fiction",
+      "difficulty":"C1",
+      "wordCount":257,
+      "estimatedTimeMinutes":4,
+      "author":"StoryVocab editorial",
+      "content":"The first cut of the film was beautiful and empty. Every frame had been polished; every transition announced its importance. Yet the characters seemed to be performing their own feelings from a safe distance.\n\nMina, the cinematographer, proposed a less obvious revision. She would juxtapose the grand scenes with peripheral details: a wet sleeve, a chair left turned toward a vanished conversation, dust moving through a hallway. The producer called the idea impractical. Mina called it honest.\n\nThe changes were almost invisible, but they made the story more evocative. Viewers began to feel what the characters could not say. A pause became a decision; a shadow became a memory. The film no longer explained its sadness. It allowed the audience to encounter it.\n\nAn aesthetic is not a collection of beautiful surfaces. It is a way of directing attention. Sometimes the most powerful light is the one that reveals where the eye has been trained not to look.",
+      "keyVocabularyIds":[41,42,43,44],
+      "exercises":[
+        {"type":"cloze","id":"ex_11_1","sentence":"She would ___ grand scenes with peripheral details.","blankWord":"juxtapose","options":["juxtapose","justify","juggle"],"explanation":"Juxtapose significa colocar cosas contrastantes juntas para compararlas."},
+        {"type":"cloze","id":"ex_11_2","sentence":"The changes made the story more ___.","blankWord":"evocative","options":["evocative","evasive","excessive"],"explanation":"Evocative describe algo que trae imágenes o sentimientos a la mente."},
+        {"type":"comprehension","id":"ex_11_3","question":"What did the quieter details do?","options":["They made the story explain every emotion.","They helped viewers feel what characters could not say.","They removed all shadows from the film."],"correctAnswer":1,"explanation":"The peripheral details guided attention toward emotions left unsaid."},
+        {"type":"vocabulary","id":"ex_11_4","word":"aesthetic","definition":"Concerned with beauty, appearance or artistic principles","options":["Concerned with beauty, appearance or artistic principles","Concerned only with financial value","Unable to be seen by an audience"],"correctAnswer":0,"explanation":"Aesthetic se refiere a la belleza, la apariencia o los principios artísticos."}
+      ]
+    },
+    {
+      "id":12,
+      "title":"The Body's Hidden Ledger",
+      "description":"A clinician explains why health is often shaped by processes we cannot feel until they change.",
+      "category":"health",
+      "type":"non-fiction",
+      "difficulty":"C1",
+      "wordCount":270,
+      "estimatedTimeMinutes":4,
+      "author":"StoryVocab editorial",
+      "content":"The body keeps accounts that no patient can read directly. It balances hormones, repairs tissue and converts food into energy through metabolic processes that continue while attention is elsewhere. Health becomes visible only when the ledger begins to drift.\n\nA malignant cell, for example, is dangerous not merely because it grows, but because it can evade the boundaries that usually coordinate growth. Early detection matters because treatment can intervene before a local problem becomes a systemic one. Even then, a prognosis is a forecast rather than a promise.\n\nThe clinician's task is to translate complexity without manufacturing certainty. She explained the scan, named what remained unknown and invited questions. An inadvertent omission in a medical conversation can be as consequential as a technical error, so clarity is not a courtesy; it is part of care.\n\nPatients often ask for a single number or a definitive timeline. What they deserve is something more useful: the best current evidence, the limits of that evidence and a plan for learning more. Medicine becomes humane when precision and uncertainty are allowed to coexist.",
+      "keyVocabularyIds":[46,47,48,49,50,52],
+      "exercises":[
+        {"type":"cloze","id":"ex_12_1","sentence":"The body converts food into energy through ___ processes.","blankWord":"metabolic","options":["metabolic","mechanical","melodic"],"explanation":"Metabolic describe los procesos químicos con los que las células producen energía."},
+        {"type":"cloze","id":"ex_12_2","sentence":"A ___ is a forecast rather than a promise.","blankWord":"prognosis","options":["prognosis","diagnosis","prescription"],"explanation":"Prognosis es un pronóstico sobre la evolución de una enfermedad."},
+        {"type":"comprehension","id":"ex_12_3","question":"What should a clinician communicate?","options":["Only a definitive timeline","Evidence, its limits and a plan to learn more","A diagnosis without uncertainty"],"correctAnswer":1,"explanation":"The story argues for honest precision: evidence, limitations and next steps."},
+        {"type":"vocabulary","id":"ex_12_4","word":"inadvertent","definition":"Not intentional; caused by carelessness or inattention","options":["Not intentional; caused by carelessness or inattention","Deliberately harmful","Visible in every scan"],"correctAnswer":0,"explanation":"Inadvertent significa no intencionado o accidental."}
+      ]
+    },
+    {
+      "id":13,
+      "title":"The Signal in the Garden",
+      "description":"A public-health researcher follows a conspicuous pattern to a surprisingly ordinary intervention.",
+      "category":"health",
+      "type":"fiction",
+      "difficulty":"C1",
+      "wordCount":243,
+      "estimatedTimeMinutes":4,
+      "author":"StoryVocab editorial",
+      "content":"The neighborhood clinic recorded an unusual decline in acute respiratory visits, but nobody could explain it. The change was conspicuous in the numbers and invisible in the waiting room. A new medication had not been introduced; the building had not changed.\n\nDr. Vale scrutinized the records and noticed a peripheral detail: the decline began shortly after residents created a shared garden behind the clinic. It would have been easy to dismiss the connection as conjecture. Gardening was not a treatment, and correlation was not a cure.\n\nStill, the observation suggested a hypothesis. The team designed a modest study, measuring air quality, outdoor time and reported stress. The evidence did not prove a single cause, but it did corroborate a pattern worth taking seriously. Access to shade, movement and social contact appeared to mitigate several pressures at once.\n\nThe garden did not replace medicine. It reminded the clinic that health is shaped by systems, and that a small change can become salient when a community is given room to care for itself.",
+      "keyVocabularyIds":[24,28,40,49,52],
+      "exercises":[
+        {"type":"cloze","id":"ex_13_1","sentence":"The pattern was ___ in the numbers.","blankWord":"conspicuous","options":["conspicuous","consecutive","conscious"],"explanation":"Conspicuous significa muy fácil de ver o notar."},
+        {"type":"cloze","id":"ex_13_2","sentence":"The team designed a modest ___.","blankWord":"hypothesis","options":["hypothesis","hospital","horizon"],"explanation":"A hypothesis es una explicación propuesta que puede ponerse a prueba."},
+        {"type":"comprehension","id":"ex_13_3","question":"What did the garden appear to influence?","options":["Only the clinic's medication supply","Air quality, outdoor time and reported stress","The accuracy of every medical scan"],"correctAnswer":1,"explanation":"The study measured several connected pressures rather than claiming one cure."},
+        {"type":"vocabulary","id":"ex_13_4","word":"mitigate","definition":"To make something less harmful or severe","options":["To make something less harmful or severe","To prove something beyond doubt","To grow a plant indoors"],"correctAnswer":0,"explanation":"Mitigate significa reducir la gravedad o el impacto de algo."}
+      ]
+    },
+    {
+      "id":14,
+      "title":"The Museum of Unfinished Things",
+      "description":"A curator builds an exhibition around fragments, inviting visitors to complete the story themselves.",
+      "category":"arts",
+      "type":"non-fiction",
+      "difficulty":"C1",
+      "wordCount":256,
+      "estimatedTimeMinutes":4,
+      "author":"StoryVocab editorial",
+      "content":"The exhibition contained no masterpieces in the usual sense. There was a torn letter, a chair with one missing leg, a photograph whose subject had been cut from the frame. The curator called it an archive of peripheral evidence. Critics called it evasive.\n\nHer intention was more deliberate. Museums often present a finished narrative, encouraging visitors to admire an object from a safe distance. These fragments asked for a different kind of attention. Their conspicuous gaps made the audience aware of its own assumptions.\n\nIn one room, a sound recording was juxtaposed with an empty display case. The pairing was oddly evocative: a voice described a home that the visitor could not see. People lingered, arguing about what the missing object might have been. The uncertainty was not a flaw to resolve but the central aesthetic choice.\n\nBy the final room, the museum felt less like a storehouse than a conversation. Art did not have to supply every answer. It could create a space in which curiosity became a shared responsibility.",
+      "keyVocabularyIds":[41,42,43,44,45,52],
+      "exercises":[
+        {"type":"cloze","id":"ex_14_1","sentence":"The curator called the objects an archive of ___ evidence.","blankWord":"peripheral","options":["peripheral","permanent","personal"],"explanation":"Peripheral significa secundario o situado en el borde de algo."},
+        {"type":"cloze","id":"ex_14_2","sentence":"Her intention was more ___.","blankWord":"deliberate","options":["deliberate","desperate","decorative"],"explanation":"Deliberate describe una elección consciente y cuidadosa."},
+        {"type":"comprehension","id":"ex_14_3","question":"What did the gaps in the exhibition do?","options":["They made visitors aware of their assumptions.","They made every object easier to identify.","They removed curiosity from the rooms."],"correctAnswer":0,"explanation":"The conspicuous gaps encouraged visitors to notice how they completed a narrative."},
+        {"type":"vocabulary","id":"ex_14_4","word":"visceral","definition":"Based on deep physical or emotional feeling","options":["Based on deep physical or emotional feeling","Based on a museum's official catalog","Based on a distant calculation"],"correctAnswer":0,"explanation":"Visceral describe una reacción intensa, instintiva y sentida casi físicamente."}
+      ]
+    }
+  ]
+}
